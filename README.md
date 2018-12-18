@@ -1,2 +1,2 @@
-#conversion App
-#convert pounds to gram, kilogram,ounce and tons
+#Metric Conversion App
+/Convert Pounds To Gram, kilogram, ounces, Tons.

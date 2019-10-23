@@ -4,10 +4,6 @@ function getElement(id){
 }
 let input=getElement('#input input');
 let flag=false;
-let gram=453.59;
-let ounce=16;
-let tons=0.0005;
-let kilogram=0.45359237;
 
 let arr=[];
 function calculate(){
